@@ -8,7 +8,7 @@ export const metadata = {
 export const EventCategries: Category[] = [
   {
     id: "1",
-    name: "One on One",
+    name: "1:1 Meeting",
     color: "#FF0000",
   },
   {
